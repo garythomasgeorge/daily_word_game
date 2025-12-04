@@ -7,6 +7,10 @@ import argparse
 from datetime import datetime
 from google import genai
 from google.genai import types
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 # Constants
 DB_PATH = "backend/game.db"
