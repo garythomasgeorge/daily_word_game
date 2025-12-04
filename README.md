@@ -2,7 +2,7 @@
 
 A full-stack, AI-powered daily word game (Wordle clone) that generates unique game modes using Google's Gemini AI.
 
-![Daily Word Game Screenshot](/Users/ggeorg688@cable.comcast.com/.gemini/antigravity/brain/82adfed3-bd2d-48cf-81e5-7ed024c95154/uploaded_image_1764879765534.png)
+![Daily Word Game Screenshot](assets/screenshot.png)
 
 ## Features
 
